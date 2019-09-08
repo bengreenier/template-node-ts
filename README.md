@@ -1,3 +1,5 @@
+# RUN ./configure.js after cloning before true initial commit to new project
+
 # %%REPO_NAME%%
 
 %%REPO_DESC%%
