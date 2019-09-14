@@ -17,7 +17,8 @@
       "**/src/**/*.ts"
     ],
     "coverageReporters": [
-      "cobertura"
+      "cobertura",
+      "text"
     ],
     "preset": "ts-jest"
   },
